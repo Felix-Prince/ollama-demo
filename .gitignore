@@ -19,3 +19,10 @@ npm-debug.log*
 # 临时文件
 *.tmp
 *.temp
+
+# Skills
+skills-lock.json
+.agents/
+.claude/skills/
+.continue/skills/
+.trae/skills/

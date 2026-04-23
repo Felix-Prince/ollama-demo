@@ -8,7 +8,8 @@ const axios = require('axios');
 
 // 配置
 const OLLAMA_HOST = 'http://localhost:11434';
-const MODEL_NAME = 'gemma4:e4b';
+// const MODEL_NAME = 'gemma4:e4b';
+const MODEL_NAME = 'frontend-ai';
 
 /**
  * 简单的文本生成函数
